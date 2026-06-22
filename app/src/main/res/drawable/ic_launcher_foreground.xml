@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Left eye: sharp outer point (top-left), rounded inner (bottom-right) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,39 L50,49 Q51,50 50,51 Q44,54 39,53 Q33,51 32,49 Q30,44 32,39 Z"/>
+
+    <!-- Right eye: mirrored. Sharp outer point (top-right), rounded inner (bottom-left) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M76,39 L58,49 Q57,50 58,51 Q64,54 69,53 Q75,51 76,49 Q78,44 76,39 Z"/>
+
+    <!-- Smirk -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M41,63 Q54,72 67,61"/>
+</vector>

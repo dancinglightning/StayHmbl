@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stay Hmbl</string>
+    <string name="title">STAY HMBL</string>
+    <string name="subtitle">step writer · health connect</string>
+    <string name="hint">enter steps</string>
+    <string name="btn_write">WRITE TO HEALTH CONNECT</string>
+    <string name="btn_clear">CLEAR TODAY</string>
+    <string name="status_idle">Ready.</string>
+    <string name="status_writing">Writing…</string>
+    <string name="status_ok">Wrote %1$s steps across %2$d records.</string>
+    <string name="status_err">Error: %1$s</string>
+    <string name="rationale_title">Privacy</string>
+    <string name="rationale_body">Stay Hmbl writes step records to Health Connect on this device. Data stays local. No data leaves the device through this app.</string>
+</resources>
